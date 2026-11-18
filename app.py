@@ -79,7 +79,7 @@ if page == "👥 Team Member Profiles":
         {
             "name": "DEVINA LIE",
             "nim": "NIM: 021202600003",
-            "photo": "foto1.jpg",
+            "photo": "062d099d20239525c0fb4ee5e7057d31.jpg",
             "role": "🚀 DevOps & Project Manager / Team Leader",
             "contributions": [
                 "Led the team and managed project timeline",
@@ -90,7 +90,7 @@ if page == "👥 Team Member Profiles":
         {
             "name": "TESSA AFIKA",
             "nim": "NIM: 02120260002",
-            "photo": "foto2.jpg",
+            "photo": "acf2221931c5dc2777ce342f389c2f63.jpg",
             "role": "🧪 Quality Assurance (QA) & Finalizer",
             "contributions": [
                 "Conducted testing and bug verification",
@@ -101,7 +101,7 @@ if page == "👥 Team Member Profiles":
         {
             "name": "IDA AYU ANASTASYA",
             "nim": "NIM: 0212026009",
-            "photo": "foto3.jpg",
+            "photo": "f0e7829760aa858b548af01e9d6d4361.jpg",
             "role": "💻 Back-End & Full-Stack Developer",
             "contributions": [
                 "Developed core application logic in Python",
